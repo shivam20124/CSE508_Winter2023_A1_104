@@ -5,17 +5,16 @@ integrals
 author
 points
 relation
-integralto
+integral
 problems
 astrophysics
 quantum
 mechanics
-andbecause
 importance
 supplies
 table
 values
-thetable
+table
 gives
 rl
 x
@@ -24,7 +23,7 @@ places
 decimals
 x
 0
-tox
+x
 6
 00
 intervals
@@ -33,7 +32,7 @@ intervals
 second
 order
 central
-differencesare
+differences
 tabulated
 assist
 interpolation

@@ -2,7 +2,8 @@ three
 dimensional
 linearized
 analysis
-forcesexerted
+forces
+exerted
 rigid
 wing
 shock
@@ -13,14 +14,13 @@ moving
 flat
 plate
 induced
-anacoustic
+acoustic
 shock
 front
 striking
 edge
 plate
 obliquely
-hasbeen
 found
 terms
 two

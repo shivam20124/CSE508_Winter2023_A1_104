@@ -4,7 +4,7 @@ two
 winged
 reentry
 vehicles
-supersonicand
+supersonic
 hypersonic
 speeds
 tests
@@ -14,13 +14,13 @@ research
 center
 two
 winged
-liftinghypersonic
+lifting
+hypersonic
 reentry
 glider
 configurations
 performance
 stability
-and
 control
 data
 presented
@@ -30,7 +30,7 @@ numbers
 62
 2
 91
-forangles
+angles
 attack
 15degree
 mach
@@ -39,6 +39,6 @@ numbers
 8
 9
 6
-forangles
+angles
 attack
 25degree

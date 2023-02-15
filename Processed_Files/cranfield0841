@@ -2,7 +2,7 @@ bending
 circular
 cylindrical
 shells
-underpure
+pure
 bending
 stability
 circular
@@ -10,7 +10,7 @@ cylindrical
 shells
 pure
 bending
-investigatedby
+investigated
 means
 batdorf
 s
@@ -18,7 +18,7 @@ modified
 donnell
 s
 equation
-thegalerkin
+galerkin
 method
 results
 investigation
@@ -30,9 +30,11 @@ accepted
 value
 maximum
 critical
-bendingstress
+bending
+stress
 practical
 purposes
 equal
 critical
-compressivestress
+compressive
+stress

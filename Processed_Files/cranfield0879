@@ -10,7 +10,7 @@ plane
 models
 straight
 swept
-anddelta
+delta
 wings
 3
 x
@@ -20,7 +20,7 @@ transonic
 test
 facility
 techniques
-ofmodel
+model
 construction
 testing
 developed

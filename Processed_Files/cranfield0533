@@ -3,7 +3,8 @@ point
 shock
 detachment
 distance
-flowaround
+flow
+around
 spheres
 cylinders
 air
@@ -11,12 +12,14 @@ author
 discusses
 problem
 deflection
-cantileveredbar
+cantilevered
+bar
 initially
 shape
 circular
 arc
 subjected
-arbitrarilyinclined
+arbitrarily
+inclined
 end
 load

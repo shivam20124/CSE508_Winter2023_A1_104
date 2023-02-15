@@ -2,7 +2,8 @@ force
 measurements
 square
 dodecagonal
-sectionalcylinders
+sectional
+cylinders
 high
 reynolds
 numbers
@@ -11,7 +12,7 @@ given
 measurements
 compressed
 air
-tunnelof
+tunnel
 forces
 two
 cylinders
@@ -19,12 +20,12 @@ one
 square
 cross
 section
-theother
 dodecagonal
 tests
 carried
 various
-reynoldsnumbers
+reynolds
+numbers
 ranging
 approximately
 0
@@ -36,7 +37,6 @@ x
 x
 10
 based
-onthe
 distance
 parallel
 faces

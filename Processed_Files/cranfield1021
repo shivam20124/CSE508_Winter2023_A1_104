@@ -7,14 +7,15 @@ describes
 theory
 tests
 creep
-collapseof
+collapse
 long
 thin
 aluminum
 alloy
 cylinders
 external
-radialpressure
+radial
+pressure
 steady
 state
 creep
@@ -26,7 +27,6 @@ temperatures
 300
 500
 f
-the
 collapse
 time
 cylinder

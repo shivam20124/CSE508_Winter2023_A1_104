@@ -10,7 +10,8 @@ boundary
 layer
 equations
 presented
-steadyincompressible
+steady
+incompressible
 flow
 pressure
 gradient
