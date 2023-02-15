@@ -46,12 +46,12 @@ for i in range(1400):
     title="" #forming the  from the file
     for i2 in range(title_start + 1, title_end):
         strip_text = text[i2].strip()
-        title = title + strip_text
+        title = title + " " + strip_text
 
     text_content = "" #forming the text from the file
     for i3 in range(text_start + 1, text_end):
         strip_text = text[i3].strip()
-        text_content = text_content + strip_text
+        text_content = text_content + " " + strip_text
         
     final_content = title + " " + text_content
     file_open.close()
