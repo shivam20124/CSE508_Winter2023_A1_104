@@ -1,9 +1,8 @@
 import os
-from natsort import natsorted
 import pickle
 
 var = "D:/College/SEMESTER 6/IR/CSE508_Winter2023_A1_104/Processed_Files"
-file_names = natsorted(os.listdir(var))
+file_names = os.listdir(var)
 
 word_dict = {}
 
@@ -33,7 +32,7 @@ for i in range(len(file_names)):
 # print(word_dict)
 
 positional_index = open('D:/College/SEMESTER 6/IR/CSE508_Winter2023_A1_104/Positional_Index_File', 'ab')
-pickle.dump(word_dict, positional_index)
+pickle(protocol=2).dump(word_dict, positional_index, protocol = 2)
 positional_index.close()
 
 
